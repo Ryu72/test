@@ -1,4 +1,4 @@
-package io.github.mouadyou;
+package io.github.mouadyou.generics;
 
 public class GenericsInheritance {
 
